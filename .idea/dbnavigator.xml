@@ -28,7 +28,7 @@
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
     <connection id="17042db8-3556-49cf-a586-3f68ece465a6">
-      <console name="mysql" type="STANDARD" schema="dump" session="Main"><![CDATA[SELECT * FROM classes WHERE class_id = 1;]]></console>
+      <console name="mysql" type="STANDARD" schema="workshop2" session="Main"><![CDATA[SELECT * FROM users;]]></console>
     </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
@@ -41,6 +41,7 @@
   </component>
   <component name="DBNavigator.Project.DatasetFilterManager">
     <filter-actions connection-id="17042db8-3556-49cf-a586-3f68ece465a6" dataset="somebank.actioncount" active-filter-id="" />
+    <filter-actions connection-id="17042db8-3556-49cf-a586-3f68ece465a6" dataset="workshop2.users" active-filter-id="" />
     <filter-actions connection-id="17042db8-3556-49cf-a586-3f68ece465a6" dataset="somebank.actor" active-filter-id="" />
   </component>
   <component name="DBNavigator.Project.EditorStateManager">
@@ -91,7 +92,7 @@
           <deprecated-pwd value="" />
         </database>
         <properties>
-          <auto-commit value="false" />
+          <auto-commit value="true" />
         </properties>
         <ssh-settings>
           <active value="false" />

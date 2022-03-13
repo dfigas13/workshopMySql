@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class DbUtility {
-    private static final String DB_URL =  "jdbc:mysql://localhost:3306/workshop2?useSSL=false&characterEncoding=utf8";
+    private static final String DB_URL =  "jdbc:mariadb://localhost:3306/workshop2?useSSL=false&characterEncoding=utf8";
     private static final String DB_USER = "root";
     private static final String DB_PASS = "";
 
