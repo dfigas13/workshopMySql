@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7baabc2-0917-4c12-a122-6901cd9b8eff" name="Changes" comment="darabank class">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/compay/course/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/compay/course/entity/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/compay/course/jbcrypt/BCrypt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/compay/course/DbUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/compay/course/DbUtility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/compay/course/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/compay/course/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
